@@ -1,0 +1,22 @@
+{
+  "name": "react-native-flowlayout",
+  "version": "0.0.1",
+  "description": "react-native 实现流式布局",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a741762308/react-native-flowlayout.git"
+  },
+  "keywords": [
+    "dq2cq1314"
+  ],
+  "author": "a741762308",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a741762308/react-native-flowlayout/issues"
+  },
+  "homepage": "https://github.com/a741762308/react-native-flowlayout#readme"
+}
